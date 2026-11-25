@@ -17,13 +17,13 @@ O escritório Goularte Filho Advocacia tem vault separado (repositório `segundo
 |---|---|---|
 | `00 Inbox/` | capturas rápidas | na revisão |
 | `01 Procuradoria/` | atribuições, fluxos com outros setores do Conselho | contexto geral |
-| `02 Padrões/` | parecer, ofício, peças judiciais, documentos Word | **antes de todo documento** |
+| `02 Padrões/` | parecer, ofício, peças judiciais; `Modelos/` tem os .docx-base | **antes de todo documento** |
 | `10 Teses/` | posições da Procuradoria por tema | pareceres e ações |
 | `20 Procedimentos/` | como fazer cada rotina (SEI, ações civis públicas, prazos) | ao executar a rotina |
 | `30 Recursos/` | legislação e normas do sistema COFFITO/CREFITO, jurisprudência | pesquisa |
 | `90 Modelos de nota/` | modelos para notas novas | ao criar nota |
 | `99 Arquivo/` | o que saiu de uso | quase nunca |
-| `.claude/skills/` | `/parecer`, `/aprendizado` | quando o comando é chamado |
+| `.claude/skills/` | `/peca-judicial`, `/parecer`, `/aprendizado` | quando o comando é chamado |
 
 ## Regras que valem sempre
 
