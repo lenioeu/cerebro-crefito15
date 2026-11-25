@@ -10,7 +10,8 @@ atua em ações civis públicas e acompanha processos administrativos.
 
 O Conselho usa pelo menos dois sistemas administrativos: **Implanta** para as atividades-fim
 (fiscalização, anuidade, parcelamento, inscrição, reembolso) e **SEI** para o resto (licitações,
-contratos, diárias e passagens, ofícios). Ver `01 Procuradoria/Sistemas do Conselho.md`. O Claude não tem acesso a nenhum dos dois:
+contratos, diárias e passagens, ofícios). A Procuradoria é demandada e emite pareceres nos dois.
+Ver `01 Procuradoria/Sistemas do Conselho.md`. O Claude não tem acesso a nenhum dos dois:
 o que vier deles chega por documento exportado ou anexado.
 
 O escritório Goularte Filho Advocacia tem vault separado (repositório `segundo-cerebro`).

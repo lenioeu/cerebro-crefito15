@@ -18,11 +18,12 @@ documentos e dados chegam exportados (PDF, planilha) ou anexados pelo Lenio.
 - Parecer sobre **anuidade, isenção, parcelamento, inscrição, fiscalização ou reembolso** → o processo de
   origem costuma estar no **Implanta**.
 - Parecer sobre **licitação, dispensa, contrato, pessoal, diárias** → o processo costuma estar no **SEI**.
-- Ao pedir documentos para uma minuta, perguntar de qual sistema vêm e citar o identificador certo.
+- A Procuradoria é **demandada nos dois sistemas** e os pareceres ficam **no sistema de origem da demanda**
+  (Implanta ou SEI). Ao pedir documentos para uma minuta, perguntar de qual sistema vêm e citar o
+  identificador certo.
 
 ## A preencher
 
 - Identificador do Implanta usado em pareceres e ofícios (nº do processo? do protocolo?)
-- Onde ficam os pareceres finais assinados (no SEI, no Implanta ou nos dois)
 - Como cada sistema exporta documentos (PDF, planilha, relatório)
 - Se há outros sistemas (processo judicial eletrônico, e-mail institucional, Drive do Conselho)
