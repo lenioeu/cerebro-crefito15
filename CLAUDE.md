@@ -41,7 +41,8 @@ O escritório Goularte Filho Advocacia tem vault separado (repositório `segundo
 3. **Revisão humana.** Tudo o que o Claude produz é minuta até eu revisar e assinar no SEI.
 4. **Aprendizados.** Antes de executar, leia `Aprendizados.md`. Quando eu corrigir algo, registre
    com `/aprendizado`.
-5. **Padrões** de `02 Padrões/` prevalecem sobre qualquer hábito seu.
+5. **Padrões** de `02 Padrões/` prevalecem sobre qualquer hábito seu. Cargo do Lenio em toda
+   assinatura: **Chefe da Procuradoria CREFITO-15**.
 6. **Jurisprudência e normas:** nunca cite julgado, resolução ou artigo sem conferir na fonte oficial
    (JuriBase `verificar_citacao`, site do tribunal, site do COFFITO, Planalto). Se não achar, diga.
 7. **Dúvida sobre fato:** pergunte.

@@ -7,6 +7,7 @@ atualizado: 2026-11-25
 
 - **Fonte:** Palatino Linotype.
 - **Autor do .docx:** Lenio Goularte.
+- **Assinatura:** LENIO FILGUEIRAS GOULARTE FILHO / CHEFE DA PROCURADORIA CREFITO-15.
 
 ## A preencher
 
