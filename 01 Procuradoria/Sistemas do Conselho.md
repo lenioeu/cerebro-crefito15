@@ -10,8 +10,8 @@ documentos e dados chegam exportados (PDF, planilha) ou anexados pelo Lenio.
 
 | Sistema | Uso | Exemplos | Identificador nas notas |
 |---|---|---|---|
-| **Implanta** | **atividades-fim** do Conselho | fiscalização, reembolso, cobrança de anuidade, parcelamento, deferimento de inscrição | a definir (nº do processo/protocolo no Implanta) |
-| **SEI** (Sistema Eletrônico de Informações) | **atividades-meio** (o resto) | licitações, contratos, diárias e passagens, ofícios | número do processo SEI |
+| **Implanta** | **atividades-fim** do Conselho | fiscalização, reembolso, cobrança de anuidade, parcelamento, deferimento de inscrição | `Processo IMPLANTA nº 01055/2025` |
+| **SEI** (Sistema Eletrônico de Informações) | **atividades-meio** (o resto) | licitações, contratos, diárias e passagens, ofícios | `Processo nº 15.1511.000027/2026-65 (SEI)` |
 
 ## Como isso orienta o trabalho
 
@@ -24,6 +24,5 @@ documentos e dados chegam exportados (PDF, planilha) ou anexados pelo Lenio.
 
 ## A preencher
 
-- Identificador do Implanta usado em pareceres e ofícios (nº do processo? do protocolo?)
 - Como cada sistema exporta documentos (PDF, planilha, relatório)
 - Se há outros sistemas (processo judicial eletrônico, e-mail institucional, Drive do Conselho)
