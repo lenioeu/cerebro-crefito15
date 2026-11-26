@@ -18,8 +18,8 @@ Arquivo-base: `02 Padrões/Modelos/Parecer CREFITO-15.docx` — **todo parecer n
 - Citação de lei, regulamento ou edital: parágrafo próprio, **fonte 10**, entrelinha simples, **recuo
   esquerdo de 4 cm**, sem itálico.
 - Autor do .docx: **Lenio Goularte**.
-- Cargo na assinatura, **sempre**: **Chefe da Procuradoria CREFITO-15** (em caixa alta no bloco de
-  assinatura). Nunca "Procurador-Chefe", "Chefe da Procuradoria" sem o CREFITO-15 ou "CREFITO 15" sem hífen.
+- Cargo na assinatura, **sempre** em duas linhas abaixo do nome: **CHEFE DA PROCURADORIA** e, na linha
+  seguinte, **CREFITO-15**. Nunca "Procurador-Chefe" nem "CREFITO 15" sem hífen.
 
 ## Estrutura, na ordem
 
@@ -42,7 +42,7 @@ Arquivo-base: `02 Padrões/Modelos/Parecer CREFITO-15.docx` — **todo parecer n
 8. **Conclusão:** começa com "Diante do exposto, não havendo outras questões jurídicas delimitadas e
    com base nas informações constantes nos autos, [...]".
 9. **Local e data:** "Vitória/ES, [data por extenso]."
-10. **Assinaturas** em tabela de 2 colunas: **LENIO FILGUEIRAS GOULARTE FILHO / CHEFE DA PROCURADORIA CREFITO-15**
+10. **Assinaturas** em tabela de 2 colunas: **LENIO FILGUEIRAS GOULARTE FILHO / CHEFE DA PROCURADORIA / CREFITO-15** (três linhas)
     e o(a) advogado(a) da Procuradoria (nome / ADVOGADO(A) (OAB/ES Nº ...) / MATRÍCULA Nº ...).
 
 Fechos usados conforme o caso: "É o parecer." · "É o parecer, salvo melhor juízo." ·

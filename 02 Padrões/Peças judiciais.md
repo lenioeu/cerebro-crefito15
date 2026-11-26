@@ -49,7 +49,7 @@ Arquivo-base com cabeçalho, rodapé e estilos prontos: `02 Padrões/Modelos/Pe�
 8. **Fecho**: "Nesses termos, pede deferimento." e, abaixo, "Vitória/ES, data da assinatura eletrônica."
 9. **Assinaturas**: tabela de 2 colunas sem bordas, centralizada. Nome em negrito e caixa alta;
    abaixo, cargo e identificação:
-   - LENIO FILGUEIRAS GOULARTE FILHO / CHEFE DA PROCURADORIA CREFITO-15 (cargo sempre nesta forma, numa linha só)
+   - LENIO FILGUEIRAS GOULARTE FILHO / CHEFE DA PROCURADORIA / CREFITO-15 (cargo sempre em duas linhas)
    - [NOME] / ADVOGADO(A) (OAB/ES Nº ...) / MATRÍCULA Nº ...
 
 ## Citações e referências
